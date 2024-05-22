@@ -1,0 +1,10 @@
+.ItemListContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: 2rem;
+    margin: auto;
+    width: 100vh;
+    height: 100vh;
+}
