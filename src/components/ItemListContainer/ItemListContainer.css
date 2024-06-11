@@ -1,10 +1,8 @@
-.ItemListContainer {
+.itemListContainer {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    color: black;
+    flex-direction: column 1hr, 1hr, 1hr;
+    color: white;
     font-size: 2rem;
     margin: auto;
-    width: 100vh;
-    height: 100vh;
 }
+
